@@ -35,7 +35,7 @@ Copy the program from below 👇:
 
 
 
-
+## Code
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
