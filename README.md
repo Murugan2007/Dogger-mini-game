@@ -3,7 +3,7 @@ A minigame made using ESP32 and a 0.96 SSD1306 OLED
 
 This is a minigame to just test your components or for time pass anything you desire
 
-Here the components used are 
+## Components
 1x 0.96 OLED
 1x ESP32 DEVKIT-V1
 1x Joystick Analog
@@ -11,7 +11,7 @@ some miscellaneous like Breadboard, jumpers etc..
 
 it's a fun way to test your components instead of the traditional boring programs.
 
-Pins allocation:
+## Pins allocation 
 All Vcc&gnd to power supply 
 (If you're using Breadboard powersupply make sure it is connected to the same gnd)
 OLED (SSD1306 I2C version)
@@ -29,6 +29,7 @@ VRy → GPIO 35 (analog input)
 
 SW → GPIO 32 (digital input with pull-up)
 
+## Created under **MIT License**
 
 Copy the program from below 👇: 
 
