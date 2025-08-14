@@ -37,7 +37,7 @@ Copy the program from below 👇:
 
 ## Code
 
-#include <Wire.h>
+'''#include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
@@ -132,7 +132,7 @@ void loop() {
   display.display();
 
   delay(10);
-}
+}'''
 
 
 
